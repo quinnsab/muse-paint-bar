@@ -1859,7 +1859,8 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			box-shadow: 0 0 0 2px #ff0175;
+			box-shadow: 0 0 0 2px #ff0175
+			;
 		}
 
 	select {
@@ -2078,15 +2079,15 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			color:  #ff0175;
 		}
 
 		.icon.style2 {
-			color: #00f0ff;
+			color:  #ff0175;
 		}
 
 		.icon.style3 {
-			color: #76ddff;
+			color:  #ff0175;
 		}
 
 /* Image */
