@@ -2604,7 +2604,7 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #00ffcc;
+				color: #ff0175;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -2871,7 +2871,7 @@ input, select, textarea {
 
 				.wrapper.style1 select option {
 					color: #ffffff;
-					background: #21b2a6;
+					background: #ff0175;
 				}
 
 			.wrapper.style1 input[type="checkbox"] + label,
